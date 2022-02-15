@@ -4,9 +4,13 @@
 - 💞️ I’m looking to collaborate on ... AI, Game Programming
 - 📫 How to reach me ... seth.emanuel.nielsen@gmail.com
 
-Main gameplay programmer on Deckbuilder-prototype below!
+Gameplay programmer on Deckbuilder-prototype below!
 
-[![Image from Gyazo](https://i.gyazo.com/22eb1c4b32d84c0cf82a0dbb68fb3bf0.gif)](https://gyazo.com/22eb1c4b32d84c0cf82a0dbb68fb3bf0)]
+![Image from Gyazo](https://i.gyazo.com/22eb1c4b32d84c0cf82a0dbb68fb3bf0.gif)
+
+![](http://i.imgur.com/60bts.gif)
+
+[![Image from Gyazo](https://i.gyazo.com/22eb1c4b32d84c0cf82a0dbb68fb3bf0.gif)](https://gyazo.com/22eb1c4b32d84c0cf82a0dbb68fb3bf0)
 
 <!---
 KingCube/KingCube is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
