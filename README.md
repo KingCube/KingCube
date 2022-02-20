@@ -3,7 +3,7 @@ seth.emanuel.nielsen@gmail.com
 
 I love gameplay-programming and AI!
 
-Gameplay programmer on Deckbuilder-prototype below!
+Gameplay programmer on Deckbuilder-prototype below! Using state-machines, dependency injections, object pooling & factory-pattern, procedurally generated content, etc, etc.
 
 ![Image from Gyazo](https://github.com/KingCube/KingCube/blob/main/Deckbuilder.gif)
 
